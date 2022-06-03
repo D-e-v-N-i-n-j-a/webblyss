@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Fullstack developer from Ghana</h3>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="coding">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solo" alt="solo" /></a> </p>
+<img src="https://www.fearlessmotivation.com/wp-content/uploads/2016/05/twitter-motivational-banner-9-768x256.jpg" alt="coding">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
